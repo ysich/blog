@@ -1,6 +1,7 @@
 ---
 title: Lua入门
 date: 2023-01-13 14:12:28
+categories: 编程语言
 tags: Lua
 ---
 
