@@ -1,11 +1,12 @@
 ---
-title: Lua入门
+title: Lua基础语法
 date: 2023-01-13 14:12:28
-categories: 编程语言
+categories: 编程语言篇
 tags: Lua
+
 ---
 
-# Lua大纲
+# Lua基础语法
 
 ## 注意点
 
