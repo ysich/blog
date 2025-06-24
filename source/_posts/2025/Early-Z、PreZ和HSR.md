@@ -2,7 +2,7 @@
 title: Early-Z、PreZ和HSR
 date: 2025-05-09 17:02:05
 categories: 性能优化篇
-tags:渲染 性能优化
+tags: 渲染 性能优化
 ---
 
 # Early-Z、PreZ和HSR
